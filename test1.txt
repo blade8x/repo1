@@ -1,6 +1,4 @@
 abc
 def
 
-22h18 repo1 code dong nay
-
-22h16 repo2 code dong nay
+22h18 repo1 code dong nayy
