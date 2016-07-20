@@ -1,4 +1,2 @@
 commit 1
 commit 2
-bad commit 2
-bad commit 3
